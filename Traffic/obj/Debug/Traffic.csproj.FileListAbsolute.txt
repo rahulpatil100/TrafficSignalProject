@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2012\Projects\Traffic\Traffic\bin\Debug\Traffic.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\Traffic\Traffic\bin\Debug\Traffic.exe
+c:\users\administrator\documents\visual studio 2012\Projects\Traffic\Traffic\bin\Debug\Traffic.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\Traffic\Traffic\obj\Debug\Traffic.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\Traffic\Traffic\obj\Debug\Traffic.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\Traffic\Traffic\obj\Debug\Traffic.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\Traffic\Traffic\obj\Debug\Traffic.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\Traffic\Traffic\obj\Debug\Traffic.exe
+c:\users\administrator\documents\visual studio 2012\Projects\Traffic\Traffic\obj\Debug\Traffic.pdb
